@@ -1,5 +1,5 @@
 body {
-    background-color: #fff;
+    background-color: white;
 }
 
 .no-display {
@@ -44,17 +44,17 @@ button.choose-file-button {
     height: 40px;
     border-radius: 2px;
     background-color: #ffffff;
-    border: solid 1px #7052CB;
+    border: solid 1px rgb(82, 169, 203);
     font-size: 13px;
-    color: #7052CB;
+    color: rgb(82, 169, 203);
 }
 
 button.analyze-button {
     width: 200px;
     height: 40px;
-    border: solid 1px #7052CB;
+    border: solid 1px rgb(82, 169, 203);
     border-radius: 2px;
-    background-color: #7052CB;
+    background-color: rgb(82, 169, 203);
     font-size: 13px;
     color: #ffffff;
 }
